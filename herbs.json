@@ -1,0 +1,23 @@
+{ 
+    "herbs": [
+
+	{
+	 "name": "Boswellia",
+	 "description": "Boswellia is an Ayurvedic spice with anti-inflammatory properties. It may reduce joint pain, enhance oral health, and improve digestion, as well as increase breathing capacity in people with chronic asthma." ,
+	 "sub_description": "Human studies link boswellia to reduced pain, improved mobility, and a greater range of movement in people with osteoarthritis and rheumatoid arthritis. It may also help prevent oral infections and fight gingivitis.", 
+	 "video": "https://www.youtube.com/watch?v=P64J5NwP85k",
+	 "doc_website": "http://prayosha33.com/" 
+	 },
+	 
+	 {
+	 "name": "Brahmi",
+	 "description": "Brahmi is an Ayurvedic herb believed to lower inflammation, improve brain function, and reduce symptoms of ADHD. It may also increase your body’s ability to deal with stress, though more research is needed." ,
+	 "sub_description": "Studies also link it to improvements in learning rates, attention, memory, and information processing, as well as reduced symptoms of attention deficit hyperactivity disorder (ADHD), such as inattention, impulsivity, poor self-control, and restlessness.", 
+	 "video": "https://www.youtube.com/watch?v=6Vi6g9_rUOM",
+	 "doc_website": "http://prayosha33.com/" 
+	 }
+	 
+ ]
+
+}
+
