@@ -2,54 +2,62 @@
     "herbs": [
 
 	{
-	 "name": "Boswellia",
-	 "description": "Boswellia is an Ayurvedic spice with anti-inflammatory properties. It may reduce joint pain, enhance oral health, and improve digestion, as well as increase breathing capacity in people with chronic asthma." ,
-	 "sub_description": "Human studies link boswellia to reduced pain, improved mobility, and a greater range of movement in people with osteoarthritis and rheumatoid arthritis. It may also help prevent oral infections and fight gingivitis.", 
-	 "video": "https://www.youtube.com/watch?v=P64J5NwP85k",
-	 "doc_website": "http://prayosha33.com/" 
+	 "herbName": "Boswellia",
+	 "herbDescription": "Boswellia is an Ayurvedic spice with anti-inflammatory properties. It may reduce joint pain, enhance oral health, and improve digestion, as well as increase breathing capacity in people with chronic asthma." ,
+	 "herbSubDescription": "Human studies link boswellia to reduced pain, improved mobility, and a greater range of movement in people with osteoarthritis and rheumatoid arthritis. It may also help prevent oral infections and fight gingivitis.", 
+	 "YouTube": "https://www.youtube.com/watch?v=P64J5NwP85k",
+	 "herbSite": "http://prayosha33.com/"
+	 "herbImageName": "https://github.com/ShubhpreetKaur/demo/blob/master/Boswellia.jpg?raw=true"
+		
 	 },
 	 
 	 {
-	 "name": "Brahmi",
-	 "description": "Brahmi is an Ayurvedic herb believed to lower inflammation, improve brain function, and reduce symptoms of ADHD. It may also increase your body’s ability to deal with stress, though more research is needed." ,
-	 "sub_description": "Studies also link it to improvements in learning rates, attention, memory, and information processing, as well as reduced symptoms of attention deficit hyperactivity disorder (ADHD), such as inattention, impulsivity, poor self-control, and restlessness.", 
-	 "video": "https://www.youtube.com/watch?v=6Vi6g9_rUOM",
-	 "doc_website": "http://prayosha33.com/" 
+	 "herbName": "Brahmi",
+	 "herbDescription": "Brahmi is an Ayurvedic herb believed to lower inflammation, improve brain function, and reduce symptoms of ADHD. It may also increase your body’s ability to deal with stress, though more research is needed." ,
+	 "herbSubDescription": "Studies also link it to improvements in learning rates, attention, memory, and information processing, as well as reduced symptoms of attention deficit hyperactivity disorder (ADHD), such as inattention, impulsivity, poor self-control, and restlessness.", 
+	 "YouTube": "https://www.youtube.com/watch?v=6Vi6g9_rUOM",
+	 "herbSite": "http://prayosha33.com/" 
+	 "herbImageName": "https://github.com/ShubhpreetKaur/demo/blob/master/Brahmi.jpg?raw=true"
 	 },
 	 
 	 {
-	 "name": "Licorice",
-	 "description": "Licorice root is an Ayurvedic spice that may help reduce inflammation and protect against various infections. It may also treat digestive problems and relieve skin irritations." ,
-	 "sub_description": "Test-tube and human studies suggest that licorice root may help reduce inflammation and fight viruses and bacteria. It also appears to offer relief from a sore throat and promote oral health by protecting against dental cavities and Candida. ", 
-	 "video": "https://www.youtube.com/watch?v=s8nOcAQy0rA",
-	 "doc_website": "http://prayosha33.com/" 
+	 "herbName": "Licorice",
+	 "herbDescription": "Licorice root is an Ayurvedic spice that may help reduce inflammation and protect against various infections. It may also treat digestive problems and relieve skin irritations." ,
+	 "herbSubDescription": "Test-tube and human studies suggest that licorice root may help reduce inflammation and fight viruses and bacteria. It also appears to offer relief from a sore throat and promote oral health by protecting against dental cavities and Candida. ", 
+	 "YouTube": "https://www.youtube.com/watch?v=s8nOcAQy0rA",
+	 "herbSite": "http://prayosha33.com/" 
+	 "herbImageName": "https://github.com/ShubhpreetKaur/demo/blob/master/Licorice%20Root.jpg?raw=true"
 	 },
 	
      {
-	 "name": "Ashwagandha",
-	 "description": "Ashwagandha is an Ayurvedic spice that may help your body manage stress more effectively. It may also lower your blood sugar levels and improve sleep, memory, muscle growth, and male fertility." ,
-	 "sub_description": "It’s considered an adaptogen, which means that it’s believed to help your body manage stress more effectively. Research has shown that it reduces levels of cortisol, a hormone that your adrenal glands produce in response to stress.", 
-	 "video": "https://www.youtube.com/watch?v=_B5r1nB_9LU",
-	 "doc_website": "http://prayosha33.com/" 
+	 "herbName": "Ashwagandha",
+	 "herbDescription": "Ashwagandha is an Ayurvedic spice that may help your body manage stress more effectively. It may also lower your blood sugar levels and improve sleep, memory, muscle growth, and male fertility." ,
+	 "herbSubDescription": "It’s considered an adaptogen, which means that it’s believed to help your body manage stress more effectively. Research has shown that it reduces levels of cortisol, a hormone that your adrenal glands produce in response to stress.", 
+	 "YouTube": "https://www.youtube.com/watch?v=_B5r1nB_9LU",
+	 "herbSite": "http://prayosha33.com/" 
+	 "herbImageName": "https://github.com/ShubhpreetKaur/demo/blob/master/Ashwagandha.jpg?raw=true"
 	 },
 
 	 {
-	 "name": "Gotu Kola",
-	 "description": "Gotu kola is an Ayurvedic herb that may help boost memory and reduce stress, anxiety, and depression, as well as improve a variety of skin conditions." ,
-	 "sub_description": "One small study suggests that gotu kola supplements may improve people’s memory after they have had a stroke.", 
-	 "video": "https://www.youtube.com/watch?v=gI8sjdJP05E",
-	 "doc_website": "http://prayosha33.com/" 
+	 "herbName": "Gotu Kola",
+	 "herbDescription": "Gotu kola is an Ayurvedic herb that may help boost memory and reduce stress, anxiety, and depression, as well as improve a variety of skin conditions." ,
+	 "herbSubDescription": "One small study suggests that gotu kola supplements may improve people’s memory after they have had a stroke.", 
+	 "YouTube": "https://www.youtube.com/watch?v=gI8sjdJP05E",
+	 "herbSite": "http://prayosha33.com/" 
+	 "herbImageName": "https://github.com/ShubhpreetKaur/demo/blob/master/Gotu%20Kola.jpg?raw=true"
 	 },
 	 
      {
-	 "name": "Cardamom",
-	 "description": "Cardamom is an Ayurvedic spice that may lower blood pressure, improve breathing, and potentially help stomach ulcers heal. However, more research is necessary." ,
-	 "sub_description": "Research suggests that cardamom powder may help reduce blood pressure in people with elevated levels. There’s also evidence that inhaling cardamom essential oil may increase the uptake of oxygen into the lungs during exercise.", 
-	 "video": "https://www.youtube.com/watch?v=Be5KLrVgtjk",
-	 "doc_website": "http://prayosha33.com/" 
+	 "herbName": "Cardamom",
+	 "herbDescription": "Cardamom is an Ayurvedic spice that may lower blood pressure, improve breathing, and potentially help stomach ulcers heal. However, more research is necessary." ,
+	 "herbSubDescription": "Research suggests that cardamom powder may help reduce blood pressure in people with elevated levels. There’s also evidence that inhaling cardamom essential oil may increase the uptake of oxygen into the lungs during exercise.", 
+	 "YouTube": "https://www.youtube.com/watch?v=Be5KLrVgtjk",
+	 "herbSite": "http://prayosha33.com/" 
+	 "herbImageName": "https://github.com/ShubhpreetKaur/demo/blob/master/Cardamom.jpg?raw=true"
 	 }
 	
  ]
 
 }
+
 
